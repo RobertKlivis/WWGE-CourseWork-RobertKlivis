@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<DialogueDataClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Dialogue Text</name>
+  <input1>Hey, how's it going?</input1>
+  <input2>I'm doing Great!</input2>
+  <input3>No, need to brag about it</input3>
+  <input4>Then why did you ask?</input4>
+  <input5>Sorry, I'm not in a great mood today.</input5>
+  <input6>Bye</input6>
+</DialogueDataClass>
